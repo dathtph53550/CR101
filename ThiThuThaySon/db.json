@@ -1,0 +1,12 @@
+{
+    "main": [
+        {
+            "id": 1,
+            "name": "Hoàng Đạt",
+            "gender": "Nam",
+            "date": "2005-08-07",
+            "hopDong": false,
+            "image": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        }
+    ]
+}
